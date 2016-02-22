@@ -2,9 +2,10 @@
   "Category": [
     {
       "Name": "Wood Ornamentals",
-      "WoodOrnamental": [
+      "SubCategories": [
         {
-          "Trees": [
+          "Name": "Trees",
+          "Plants": [
             {
               "PlantName": "Cherry (Prunus)",
               "PlantDescription": "Cherry Description",
@@ -60,7 +61,8 @@
           ]
         },
         {
-          "Shrubs": [
+          "Name": "Shrubs",
+          "Plants": [
             {
               "PlantName": "Cherry (Prunus)",
               "PlantDescription": "Cherry Description",
