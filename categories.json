@@ -1,0 +1,120 @@
+{
+  "Category": [
+    {
+      "WoodOrnamental": [
+        {
+          "Trees": [
+            {
+              "PlantName": "Cherry (Prunus)",
+              "PlantDescription": "Cherry Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pest1Description": "Description for pest 1 goes here",
+                  "pest1ImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "scale",
+                  "pestDescription": "Description for scale goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "mites",
+                  "pestDescription": "Description for pest 3 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "phytophthora root rot",
+                  "pestDescription": "Description for pest 4 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
+            {
+              "PlantName": "CrabApple (Malus)",
+              "PlantDescription": "CrabApple Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pest1Description": "Description for pest 1 goes here",
+                  "pest1ImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "scale",
+                  "pestDescription": "Description for scale goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "mites",
+                  "pestDescription": "Description for pest 3 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "phytophthora root rot",
+                  "pestDescription": "Description for pest 4 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Shrubs": [
+            {
+              "PlantName": "Cherry (Prunus)",
+              "PlantDescription": "Cherry Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pest1Description": "Description for pest 1 goes here",
+                  "pest1ImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "scale",
+                  "pestDescription": "Description for scale goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "mites",
+                  "pestDescription": "Description for pest 3 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "phytophthora root rot",
+                  "pestDescription": "Description for pest 4 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
+            {
+              "PlantName": "CrabApple (Malus)",
+              "PlantDescription": "CrabApple Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pest1Description": "Description for pest 1 goes here",
+                  "pest1ImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "scale",
+                  "pestDescription": "Description for scale goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "mites",
+                  "pestDescription": "Description for pest 3 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "phytophthora root rot",
+                  "pestDescription": "Description for pest 4 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
