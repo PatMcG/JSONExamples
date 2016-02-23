@@ -12,8 +12,8 @@
               "Pests": [
                 {
                   "pest": "aphids",
-                  "pest1Description": "Description for pest 1 goes here",
-                  "pest1ImageURL": "www.sample.com"
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
                 },
                 {
                   "pest": "scale",
@@ -38,7 +38,7 @@
               "Pests": [
                 {
                   "pest": "aphids",
-                  "pest1Description": "Description for pest 1 goes here",
+                  "pestDescription": "Description for pest 1 goes here",
                   "pest1ImageURL": "www.sample.com"
                 },
                 {
@@ -69,8 +69,8 @@
               "Pests": [
                 {
                   "pest": "aphids",
-                  "pest1Description": "Description for pest 1 goes here",
-                  "pest1ImageURL": "www.sample.com"
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
                 },
                 {
                   "pest": "scale",
@@ -95,8 +95,8 @@
               "Pests": [
                 {
                   "pest": "aphids",
-                  "pest1Description": "Description for pest 1 goes here",
-                  "pest1ImageURL": "www.sample.com"
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
                 },
                 {
                   "pest": "scale",
@@ -131,8 +131,8 @@
               "Pests": [
                 {
                   "pest": "aphids",
-                  "pest1Description": "Description for pest 1 goes here",
-                  "pest1ImageURL": "www.sample.com"
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
                 },
                 {
                   "pest": "scale",
@@ -157,8 +157,8 @@
               "Pests": [
                 {
                   "pest": "aphids",
-                  "pest1Description": "Description for pest 1 goes here",
-                  "pest1ImageURL": "www.sample.com"
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
                 },
                 {
                   "pest": "scale",
