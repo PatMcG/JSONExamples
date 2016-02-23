@@ -39,7 +39,7 @@
                 {
                   "pest": "aphids",
                   "pestDescription": "Description for pest 1 goes here",
-                  "pest1ImageURL": "www.sample.com"
+                  "pestImageURL": "www.sample.com"
                 },
                 {
                   "pest": "scale",
@@ -57,12 +57,108 @@
                   "pestImageURL": "www.sample.com"
                 }
               ]
+            },
+            {
+              "PlantName": "Dogwood (Cornus)",
+              "PlantDescription": "Dogwood Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "scale",
+                  "pestDescription": "Description for scale goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "mites",
+                  "pestDescription": "Description for pest 3 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "phytophthora root rot",
+                  "pestDescription": "Description for pest 4 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
+            {
+              "PlantName": "Maple (Acer)",
+              "PlantDescription": "Maple Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
+            {
+              "PlantName": "Oak (Quercus)",
+              "PlantDescription": "Oak Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
+            {
+              "PlantName": "Pine (Pinus)",
+              "PlantDescription": "Pine Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
+            {
+              "PlantName": "Spruce (Picea)",
+              "PlantDescription": "Spruce Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
             }
           ]
         },
         {
           "Name": "Shrubs",
           "Plants": [
+            {
+              "PlantName": "BoxWood (Buxus)",
+              "PlantDescription": "Boxwood Description",
+              "Pests": [
+                {
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "scale",
+                  "pestDescription": "Description for scale goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "mites",
+                  "pestDescription": "Description for pest 3 goes here",
+                  "pestImageURL": "www.sample.com"
+                },
+                {
+                  "pest": "phytophthora root rot",
+                  "pestDescription": "Description for pest 4 goes here",
+                  "pestImageURL": "www.sample.com"
+                }
+              ]
+            },
             {
               "PlantName": "Cherry (Prunus)",
               "PlantDescription": "Cherry Description",
@@ -90,28 +186,46 @@
               ]
             },
             {
-              "PlantName": "CrabApple (Malus)",
-              "PlantDescription": "CrabApple Description",
+              "PlantName": "Holly(llex)",
+              "PlantDescription": "Oak Description",
               "Pests": [
                 {
                   "pest": "aphids",
                   "pestDescription": "Description for pest 1 goes here",
                   "pestImageURL": "www.sample.com"
-                },
+                }
+              ]
+            },
+            {
+              "PlantName": "Japanese Andromeda (Pieris)",
+              "PlantDescription": "JAPANESESESESES",
+              "Pests": [
                 {
-                  "pest": "scale",
-                  "pestDescription": "Description for scale goes here",
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
                   "pestImageURL": "www.sample.com"
-                },
+                }
+              ]
+            },
+            {
+              "PlantName": "Lilac (Syringa)",
+              "PlantDescription": "Spruce Description",
+              "Pests": [
                 {
-                  "pest": "mites",
-                  "pestDescription": "Description for pest 3 goes here",
+                  "pest": "aphids",
+                  "pestDescription": "Description for pest 1 goes here",
                   "pestImageURL": "www.sample.com"
-                },
+                }
+              ]
+            },
+            {
+              "PlantName": "Yew (Taxus)",
+              "PlantDescription": "Yew Description",
+              "Pests": [
                 {
-                  "pest": "phytophthora root rot",
-                  "pestDescription": "Description for pest 4 goes here",
-                  "pestImageURL": "www.sample.com"
+                  "pest": "aphids",
+                  "pestDescription": "aphids descript",
+                  "pestImageURL": "imageurl.com"
                 }
               ]
             }
@@ -180,6 +294,9 @@
           ]
         }
       ]
+    },
+    {
+      "Name": "Vegetables"
     }
   ]
 }
