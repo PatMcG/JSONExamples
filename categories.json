@@ -306,6 +306,9 @@
     },
     {
       "Name": "Turf"
+    },
+    {
+      "Name" : "Another Category"
     }
   ]
 }
