@@ -1,0 +1,54 @@
+{
+	"error": false,
+	"plants": [{
+		"plantID": 5,
+		"plantName": "Arborvitae",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 6,
+		"plantName": "Cherry (Prunus)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 7,
+		"plantName": "Crabapple (Malus)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 8,
+		"plantName": "Dogwood (Cornus)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 9,
+		"plantName": "Maple (Acer)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 10,
+		"plantName": "Oak (Quercus)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 11,
+		"plantName": "Pine (Pinus)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 12,
+		"plantName": "Spruce (Picea)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 14,
+		"plantName": "Cherry (Prunus)",
+		"plantDescription": null,
+		"plantURL": null
+	}, {
+		"plantID": 15,
+		"plantName": "Dogwood (Cornus)",
+		"plantDescription": null,
+		"plantURL": null
+	}]
+}
